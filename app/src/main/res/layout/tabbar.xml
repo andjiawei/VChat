@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    >
+  <ImageView
+      android:id="@+id/iv_icon"
+      android:layout_width="wrap_content"
+      android:scaleType="centerInside"
+      android:layout_height="30dp"
+      tools:background="@drawable/selector_tab_contact"
+      android:duplicateParentState="true"
+      />
+    <TextView
+        android:id="@+id/tv_icon_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="文字"
+        android:duplicateParentState="true"
+        android:textColor="@color/selector_tab"
+        />
+</merge>

@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">VChat</string>
+
+    <string name="mTabMsgLabel">VChat</string>
+    <string name="mTabContactLabel">通讯录</string>
+    <string name="mTabMomentsLabel">发现</string>
+    <string name="mTabProfileLabel">我</string>
 </resources>
